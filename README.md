@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img src="./Languages.svg"/>
+  <img src="./Languagesheader.svg"/>
   <br>
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,kotlin,c,zig,dart,py&perline=4"/>
