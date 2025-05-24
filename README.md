@@ -23,6 +23,6 @@
   <img src="./Languagesheader.svg"/>
   <br>
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,kotlin,c,zig,dart,py&perline=4"/>
+  <img src="https://skillicons.dev/icons?i=html,css,kotlin,c,zig,dart,py,java&perline=4"/>
   </a>
 </p>
